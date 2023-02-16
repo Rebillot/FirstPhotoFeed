@@ -1,0 +1,61 @@
+body {
+    background-image: url(https://images.pexels.com/photos/164005/pexels-photo-164005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    margin: 0%;
+}
+
+header {
+    padding: 10px;
+    background-image: url(https://images.pexels.com/photos/207908/pexels-photo-207908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    
+    
+}
+header h1 {
+    margin: 0%;
+    text-align: center;
+    font-family: monospace;
+    text-transform: uppercase;
+}
+
+div.post {
+    background: rgba(218, 209, 180, 0.788);
+    margin-top: 30px;
+}
+div.post img{
+    width: 100%;
+}
+
+div.post p{
+    margin: 10px;
+    padding: 10px;
+    font-family: monospace;
+    font-size: 15px;
+
+}
+
+.header-post {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+    font-size: 20px;
+    font-family: monospace;
+
+}
+h2 {
+    
+    font-size: 20px;
+    
+}
+
+span {
+    background: rgba(255, 196, 0, 0.315);
+    font-weight: bold;
+    align-items: center;
+    
+}
+
+div.container {
+    width: 600px;
+    margin: auto;
+ 
+ }
